@@ -1,0 +1,26 @@
+PODS:
+  - Crashlytics (3.7.0):
+    - Fabric (~> 1.6.3)
+  - Fabric (1.6.7)
+  - GVUserDefaults (1.0.2)
+  - MonkeyKing (0.9.2)
+  - NCChineseConverter (1.0.3)
+  - pop (1.0.9)
+
+DEPENDENCIES:
+  - Crashlytics
+  - Fabric
+  - GVUserDefaults
+  - MonkeyKing
+  - NCChineseConverter (~> 1.0)
+  - pop
+
+SPEC CHECKSUMS:
+  Crashlytics: c3a2333dea9e2733d2777f730910321fc9e25c0d
+  Fabric: caf7580c725e64db144f610ac65cd60956911dc7
+  GVUserDefaults: 52d48cf8ba578b40a1a76312b196dfc9134ba36a
+  MonkeyKing: 2cf420f9202a51714734374c97d96cf496e7ae2b
+  NCChineseConverter: a8928afce6012994d25f2e183233f1111476a4a3
+  pop: f667631a5108a2e60d9e8797c9b32ddaf2080bce
+
+COCOAPODS: 0.39.0
